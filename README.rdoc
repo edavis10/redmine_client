@@ -1,6 +1,12 @@
-= redmine_client
+= Redmine API Client
 
-Description goes here.
+Rubygem to access the Redmine API.  Based on the documentation from http://www.redmine.org/wiki/redmine/Rest_api_with_ruby
+
+== Usage
+
+*This gem and the Redmine API is under development and subject to change at any notice.*
+
+There is an example script in bin/test.rb showing the basic usage.
 
 == Note on Patches/Pull Requests
  
